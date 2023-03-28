@@ -1,0 +1,6 @@
+<?php  
+$fruits=array("apples","banana","orange","strawberry");  
+foreach( $fruits as $arr ){  
+  echo "fruits is: $arr<br />";  
+}  
+?>  
